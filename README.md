@@ -11,6 +11,8 @@ Write-up (English / 中文):
 
 - https://jelly-raytian.github.io/systems/pvz2-resource-analysis/
 - https://jelly-raytian.github.io/zh/systems/pvz2-resource-analysis/
+- DEV Community (English): https://dev.to/jellyraytian/inside-plants-vs-zombies-2-understanding-rsb-rton-and-rijndael-encryption-24oa
+- 知乎 (中文): https://zhuanlan.zhihu.com/p/2100854901811196700
 
 The same text is in [`article/`](article/).
 
