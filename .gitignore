@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+work/
+.venv/
+*.apk
+*.obb
+*.smf
+*.rsb
+*.rsg
+*.rton
+.DS_Store
